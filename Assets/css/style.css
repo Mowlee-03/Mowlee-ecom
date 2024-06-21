@@ -877,11 +877,86 @@ footer{
         justify-content: center;
         align-items: center;
         width: 100%;
+        height: 60%;
     }
     .images{
         width: 100%;
     }
     .btn-2 button{
+        font-size: 8px;
+    }
+    .video-game {
+        height: 270px;
+    }
+    
+    .vg-container{
+        height: 100%;
+    }
+    .vg-container h3 {
+        font-size: 8px;
+    }
+    .vg-container h1{
+        font-size: 10px;
+        font-weight: 800;
+    }
+    .vg-container p {
+        line-height: 12px;
+        font-size:6px;
+    }
+    .gogles {
+        height: 320px;
+    }
+    .gogles a{
+        width: 65px;
+        height: 65px;
+        border-radius: 15px;
+    }
+    .decration {
+        height: 75px;
+    }
+    .quotes{
+        padding: 10px;
+    }
+    .quotes p {
+        font-size: 10px;
+    }
+    .quotes-div {
+        height: 213px;
+    }
+    .quotes i {
+        font-size: 20px;
+    }
+    .blog-div{
+        height: 200px;
+    }
+    .blog-div h2 {
+        font-size: 25px;
+    }
+    .blog-date {
+        font-size: 3px;
+    }
+    .blog-product a {
+        font-size: 5px;
+    }
+    .footer-1{
+        margin-top: 50px;
+    }
+    .foot-items div {
+        font-size: 5px;
+    }
+    .about p {
+        font-size: 6px;
+    }
+    .about h3{
+        font-size: 12px;
+    }
+    .quick-link h3{
+        font-size: 12px;
+    }
+    .quick-link a{
+        font-size: 3px;
+    }
+    .about-icon a{
         font-size: 8px;
     }
 }
